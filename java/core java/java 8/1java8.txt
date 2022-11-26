@@ -1,0 +1,8 @@
+1)Can u tell me any intermediate methods while using stream?
+2)what are java8 new feature?
+3)optional class in java?
+4)stream api in java? 
+5)difference b/w permagen and metaspace?
+6)nashorn  tutorial?
+7)difference b/w map and flatmap?
+8)

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Reverse2",
+            "request": "launch",
+            "mainClass": "FindReverse.Reverse2",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "FindReverse.Demo",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse1",
+            "request": "launch",
+            "mainClass": "FindReverse.Reverse1",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
             "name": "Launch Demo",
             "request": "launch",
             "mainClass": "FindDuplicateCharacter.Demo",

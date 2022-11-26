@@ -1,0 +1,22 @@
+1) what is git?
+2) what is verion control system?
+3)advantage to use git?
+4)what is git repository?
+5)name some popular git hosting reposity?
+6)differnce b/w gir and github?
+7)which language is used in git?
+8)what is git branch?
+9)what is git init?
+10)what is git clone?
+11)what is git add?
+12)what is git commit?
+13)what is git push?
+14)what is git checkout?
+15)what is git merge?
+16)what is staging area?
+17)what is git status?
+18)what is git log?
+19)what is git fetch?
+20)what is git stash?
+21)what is git pull?
+22)what is conflict in git and how to resolve it? 

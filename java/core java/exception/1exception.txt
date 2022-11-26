@@ -1,0 +1,7 @@
+1)parent class throw file not found exception?
+2)difference b/w checked and unchecked exception?
+3)difference b/ethrow and throws?
+4)does finally block executer in java?
+5)difference b/w checked and unchecked exception with example?
+6)what is runtime exception?
+7)diffrnce b/w error and exception in java?
