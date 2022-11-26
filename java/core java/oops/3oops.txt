@@ -1,0 +1,26 @@
+1)what is oops?
+2)what are the main feature of oops?
+3)what is an object?
+4)what is class?
+5)what is inheritence?
+6)type of inheritence?
+7)why multiple inheritence is not supported in java?
+8)what is encapsulation?
+9)how to acheive encapsulation?
+10)what is abstraction?
+11)howto acheive abstraction in java?
+12)what is abstract class?
+13)what is interface?
+14)Anyway we can't create object for abstract class and interface.But abstract classcontains constructor but interface not?
+15)differnce b/w abstract class and interface?
+16)what is polymorphism?
+17)what are the type of polymorphism?
+18)what is method overloading?
+19)what is method overriding?
+20)can we overload a static method in java?
+21)can we override the static method in java?
+22)can we override a private method in java?
+23)what is covariant method overiding in java?
+24)method overiding in java?
+25)what is composition?
+26)what is aggregation?  

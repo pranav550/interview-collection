@@ -1,0 +1,27 @@
+1)what is java?
+2)List some feature of java?
+3)explain jdk,jvm,jre?
+4)why java is platform independent?
+5)why java is not 100% object-oriented?
+6)expain public static void main(String args[]) in java?
+7)what are constructor in java?
+8)whu pointerare not used in java?
+9)what is jit compiler in java?
+10)what is meant by local and instance variable?
+11)define package in java?
+12)what is singleton class?how to create own singleton class?
+13)what are access modifier?
+14)what  is class loader in java?
+15)which class is the super class  of all classes?
+16)what is static keyword?
+17)what is final keyword?
+18)can we declare class as static?
+19)what is static block?
+20)what is marker interface?
+21)what is enum in java?
+22)what is garbage collection?
+23)what is serialisation and deserialisation?
+24)what is system.out.println in java?
+25)how many ways object can be created in java?
+26)what are the object class method in java?
+27)how to create immutable class in java?   
