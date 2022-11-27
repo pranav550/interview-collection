@@ -1,14 +1,63 @@
 1)what is java?
-2)List some feature of java?
+it communicate to machine so it is high level language
+everything in java is object so it is called object oriented language
+developed by sun microsystem-james gosling
+developing web application
+
+2)List some feature of java? 
+syntax is simple
+everything in java is object so it is called object oriented language
+java can be run as any os platform independent
+java can be convert to any other language so it is called portable
+secured
+
 3)explain jdk,jvm,jre?
+jdk-
+java developement kit (it is basically for developing java application)
+it contains jre + development tools
+jre-
+java runtime environment (it is used for running the java program it contains library for running java program)
+jvm-
+java virtual machine (it provide a runtime environment in which java bytecode is executed)
+
 4)why java is platform independent?
+first java program is compiled and convert into byte code.that bytecode is platform independent because can be run on multiple platform.
+
 5)why java is not 100% object-oriented?
+because primitive datatype (byte, short, char, int ,long, boolean,float,double) are not object.
+but primitive data type convert to object by wrapper classes 
+
 6)expain public static void main(String args[]) in java?
+public- it is access modifier that make method is accessible by any classes
+static- it is a keyword in java which identified it is class based 
+void- it is return type of method it not return any value
+main- name of the method which is searched by jvm at starting point
+String args[]- it is parameterised based main method
+
 7)what are constructor in java?
-8)whu pointerare not used in java?
+block of code used to initialised an object
+its samename as class namen and no return type
+it is automatically called when object is created.
+
+it is two type->
+default constructor->
+parameterised constructor->
+
+8)why pointer are not used in java?
+breacuse it is unsafe and increase the complexity ofthe program
+
 9)what is jit compiler in java?
+it help to convert the bytecode to instruction
+
 10)what is meant by local and instance variable?
+local variable-> that scope inside the method 
+instance varible->that scope outside the method
+
 11)define package in java?
+package is a group of related (classes, interface, enumeration, annotation)
+it is used to prevent naming conflict, control access,to make locating easier 
+
+
 12)what is singleton class?how to create own singleton class?
 13)what are access modifier?
 14)what  is class loader in java?
@@ -24,4 +73,7 @@
 24)what is system.out.println in java?
 25)how many ways object can be created in java?
 26)what are the object class method in java?
-27)how to create immutable class in java?   
+27)how to create immutable class in java?
+28)what are genrics?
+29)default hashcode implementation?
+30)what is jdk?
