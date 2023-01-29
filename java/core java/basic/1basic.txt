@@ -170,3 +170,9 @@ it is compiler and it is a component of java runtime environment that improve th
 28)what are genrics?
 29)default hashcode implementation?
 30)what is jdk?
+31)error status codes?
+100-199-> informational
+200-299->success responsee
+300-399->redirectional responses
+400-499->client error
+500-599>server error
