@@ -14,3 +14,5 @@
 14)what is right join?
 15)what is full outer join?
 16)what is self join?
+17)Procedure and function 
+18)Difference in group by and where clause
