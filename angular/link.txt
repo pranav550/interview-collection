@@ -7,6 +7,12 @@ Rxjs:
 6)asyncSubject
 7)of vs from
 8)what is switchmap in angular?
+9)types of map
+10)combineLatest
+11)flattering
+12)merge
+13)forkJoin
+14)concatCatMap mergemap
 
 Angular:
 1)impure vs pure
@@ -24,6 +30,7 @@ Angular:
 13)write lazy loading code
 14)what is observable?
 15)@Ngmodule
+16)treeShakable
 
 Javascript:
 1)Function vs arrow function
@@ -60,6 +67,11 @@ Javascript:
 32)debounce?
 33)curring?
 34)highOrder?
+35)promises 
+36)async await
+37)null & undefined
+38)dead zone
+39)prototype and proto 
 
 
 Css:
@@ -94,6 +106,7 @@ Programs:
 15)bubbling and capturing?
 16)reverse no?
 16)event delgation?
+17)missing no?
 
 
 
